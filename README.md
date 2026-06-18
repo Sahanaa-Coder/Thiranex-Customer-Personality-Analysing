@@ -212,8 +212,7 @@ After running `main.py`:
 ## 👤 Author
 
 **Sahanaa**  
-Data Science Intern — CodeAlpha  
-🔗 [GitHub](#) · [LinkedIn](#)
+AI Intern — Thiranex  
 
 ---
 
